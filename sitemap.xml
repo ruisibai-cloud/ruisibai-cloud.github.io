@@ -6,11 +6,4 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <!-- 如果有其他页面，继续添加 -->
-    <url>
-        <loc>https://www.meisier.fun/about.html</loc>
-        <lastmod>2024-08-04</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
 </urlset>
